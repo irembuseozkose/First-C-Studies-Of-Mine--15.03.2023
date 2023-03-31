@@ -24,4 +24,4 @@ int main( void )
  }
  }
 // Homework for the Introduction to Computer Programming lesson
-//C: How to Program by Paul and Harvey Deitel page chapter3 page89 question 3.18
+//C: How to Program by Paul and Harvey Deitel page chapter3 page90 question 3.18
