@@ -12,8 +12,7 @@ On any input, if the value entered is other than 1 or 2, keep looping until the 
      while ( student <= 10 ) {
             printf( "Enter result ( 1=pass,2=fail ): " );
             scanf( "%d", &result );
-            while (!(result==1) && !(result=
-                                     =2)) {
+            while (!(result==1) && !(result==2)) {
                     printf( "That result was invalid. Enter a valid result ( 1=pass,2=fail ): " );
                     scanf( "%d", &result );
             }
