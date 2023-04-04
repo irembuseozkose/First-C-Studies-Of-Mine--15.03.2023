@@ -27,5 +27,9 @@ int main()
     if ( mounthC < mounthB || (mounthC == mounthB && mounthC < mounthB)) {
         age--;
     }
+    max = 220 - age;
+    printf(" A person at the age of %d should have these rates:\n Maximum heart rate:%f \n Target heart rate range: %f-%f",age,max,max*0.5,max*0.75);
+}
+
 // Homework for the Introduction to Computer Programming lesson
 //C: How to Program by Paul and Harvey Deitel chapter3 page96 question 3.48 
