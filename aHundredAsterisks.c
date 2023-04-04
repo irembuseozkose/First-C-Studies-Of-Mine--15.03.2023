@@ -14,4 +14,4 @@ int main() {
     return 0;
 }
 // Homework for the Introduction to Computer Programming lesson
-//C: How to Program by Paul and Harvey Deitel chapter3 page95 question 3.36
+//C: How to Program by Paul and Harvey Deitel chapter3 page95 question 3.38
